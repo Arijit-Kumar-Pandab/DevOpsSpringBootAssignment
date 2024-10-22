@@ -8,7 +8,7 @@ public class ProjController {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello word";
+		return "Hello world";
 	}
 
 }
